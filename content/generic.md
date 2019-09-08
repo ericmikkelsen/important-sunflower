@@ -5,7 +5,6 @@ background_style: style5
 layout: page
 menu:
   main:
-    name: Generic
     weight: 2
 
 ---
