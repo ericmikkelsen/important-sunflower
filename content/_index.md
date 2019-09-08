@@ -45,12 +45,9 @@ sections:
 
       For specific directions from your location, please use our Google Maps link below or contact our Westmont veterinary clinic at .
     home_img_path: "/images/abbeywood-location.jpg"
-  - title: |-
-      Tortor dolore feugiat
-      elementum magna
-    text: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet.
-      Mauris eleifend fringilla nullam aenean mi ligula.
-    home_img_path: images/pic02.jpg
+  - title: Services
+    text: Add some content here about available services
+    home_img_path: "/images/abbeywood-services.jpg"
   - title: |-
       Augue eleifend aliquet
       sed condimentum
