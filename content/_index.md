@@ -2,7 +2,7 @@
 title: Home
 banner:
   title: Abbeywood Cat Hospital
-  subtitle: "Blandit duis accumsan  \narcu sagittis viverra  \nblandit at Interdum."
+  subtitle: ''
   actions: []
   bottom_link:
     label: Learn More
