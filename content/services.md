@@ -1,5 +1,5 @@
 +++
-background_style = "style2"
+background_style = "style1"
 layout = "page"
 subtitle = ""
 title = "Services"
