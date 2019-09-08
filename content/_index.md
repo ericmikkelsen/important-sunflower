@@ -51,56 +51,6 @@ sections:
     text: Lear more about [the team at Abbeywood Cat Hospital](/our-team)
     home_img_path: "/images/abbeywood-our-team.jpg"
   component: spotlights.html
-- type: features
-  template: features
-  title: Accumsan mus tortor nunc aliquet
-  subtitle: "Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend
-    \ \nfringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper."
-  section_id: three
-  background_style: style3
-  features:
-  - title: Arcu accumsan
-    text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
-      nullam amet leo Aenean ligula consequat consequat.
-    icon: fa-paper-plane-o
-  - title: Ac Augue Eget
-    text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
-      nullam amet leo Aenean ligula consequat consequat.
-    icon: fa-laptop
-  - title: Mus Scelerisque
-    text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
-      nullam amet leo Aenean ligula consequat consequat.
-    icon: fa-code
-  - title: Mauris Imperdiet
-    text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
-      nullam amet leo Aenean ligula consequat consequat.
-    icon: fa-headphones
-  - title: Aenean Primis
-    text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
-      nullam amet leo Aenean ligula consequat consequat.
-    icon: fa-heart-o
-  - title: Tortor Ut
-    text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
-      nullam amet leo Aenean ligula consequat consequat.
-    icon: fa-flag-o
-  component: features.html
-- type: cta
-  template: cta
-  title: Arcue ut vel commodo
-  text: Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend
-    fringilla.
-  section_id: cta
-  background_style: style4
-  actions:
-  - label: Activate
-    url: "/generic"
-    is_scrolly: false
-    is_primary: true
-  - label: Learn More
-    url: "/generic"
-    is_scrolly: false
-    is_primary: false
-  component: cta.html
 layout: home
 menu:
   main:
