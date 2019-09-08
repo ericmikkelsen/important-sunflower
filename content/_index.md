@@ -47,11 +47,8 @@ sections:
 
       [Get more information about our services](/generic/)
     home_img_path: "/images/abbeywood-services.jpg"
-  - title: |-
-      Augue eleifend aliquet
-      sed condimentum
-    text: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet.
-      Mauris eleifend fringilla nullam aenean mi ligula.
+  - title: Our Team
+    text: Lear more about [the team at Abbeywood Cat Hospital](/team)
     home_img_path: images/pic03.jpg
   component: spotlights.html
 - type: features
