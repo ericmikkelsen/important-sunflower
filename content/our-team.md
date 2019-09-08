@@ -7,6 +7,14 @@ title = "Our Team"
 weight = 3
 
 +++
+## Mary E. Ubatuba, DVM
+
+Dr. Mary Ubatuba is a lifelong resident of the western suburbs of the Chicagoland area. As a child, she could mark the periods of her life by the presence of the family pets, including her first cat Violet. After attending Northwestern University, she chose to attend Veterinary School at the University of Illinois in Campaign-Urbana, accompanied by her cats Pookie and Mona.
+
+Following graduation in 2005, she moved to Bryan-College Station, Texas for a year long small animal rotating internship at Texas A&M University. Upon completion, she returned to the Chicago area to hone her diagnostic and surgical skills as an associate at the Animal Care Clinic of Homer Glen. In 2009, she transitioned into a position as the Chief of Staff at the Animal Clinic at New Lenox, where she grew the practice to include 3 doctors, and recently also served over as Chief of Staff at Lincolnway Animal Hospital while maintaining her position at New Lenox.
+
+Dr. Ubatuba has always regarded herself primarily as a feline focused doctor, earning the Feline Friendly certification for the New Lenox Clinic, and maintaining her membership with the American Association of Feline Practitioners. With a particular love of diagnostics and dental surgery, she is thrilled to move to Abbeywood Cat Hospital in order to serve families of the western suburbs.
+
 ## Andrea, Licensed Veterinary Technician
 
 Originally from the Plainfield area, Andrea is a 2004 graduate of Joliet Junior College where she majored in Veterinary Medical Technology. She joined the staff at Abbeywood Cat Hospital in March 2004 as a Licensed Veterinary Technician. Andrea is the proud owner of two cats, and manages to find time to bake, scrapbook, watch movies and golf. The camaraderie she shares with her co-workers is just one of the many perks Andrea lists as part of her job at Abbeywood.
