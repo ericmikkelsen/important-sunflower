@@ -39,11 +39,11 @@ sections:
   section_id: two
   background_style: style2
   spotlights:
-  - title: |-
-      Magna primis lobortis
-      sed ullamcorper
-    text: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet.
-      Mauris eleifend fringilla nullam aenean mi ligula.
+  - title: Location and Directions
+    text: |-
+      is located at 6323 Fairview Avenue, between 63rd Street and 75th Street, where Downers Grove meets Westmont. This central location is within a convenient 10 minute drive of Naperville, Lisle, Downers Grove, Hinsdale, and Oak Brook.
+
+      For specific directions from your location, please use our Google Maps link below or contact our Westmont veterinary clinic at .
     home_img_path: images/pic01.jpg
   - title: |-
       Tortor dolore feugiat
