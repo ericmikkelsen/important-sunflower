@@ -48,7 +48,7 @@ sections:
       [Get more information about our services](/generic/)
     home_img_path: "/images/abbeywood-services.jpg"
   - title: Our Team
-    text: Lear more about [the team at Abbeywood Cat Hospital](/team)
+    text: Lear more about [the team at Abbeywood Cat Hospital](/our-team)
     home_img_path: "/images/abbeywood-our-team.jpg"
   component: spotlights.html
 - type: features
