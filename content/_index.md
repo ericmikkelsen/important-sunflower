@@ -49,7 +49,7 @@ sections:
     home_img_path: "/images/abbeywood-services.jpg"
   - title: Our Team
     text: Lear more about [the team at Abbeywood Cat Hospital](/team)
-    home_img_path: images/pic03.jpg
+    home_img_path: "/images/abbeywood-our-team.jpg"
   component: spotlights.html
 - type: features
   template: features
