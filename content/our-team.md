@@ -4,7 +4,7 @@ layout = "page"
 subtitle = ""
 title = "Our Team"
 [menu.main]
-weight = 3
+weight = 2
 
 +++
 ## Mary E. Ubatuba, DVM
