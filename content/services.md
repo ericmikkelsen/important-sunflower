@@ -1,6 +1,5 @@
 +++
 background_style = "style1"
-draft = true
 layout = "page"
 subtitle = ""
 title = "Services"
