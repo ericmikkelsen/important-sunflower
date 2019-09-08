@@ -1,13 +1,9 @@
 ---
 title: Home
 banner:
-  title: Spectral
+  title: Abbeywood Cat Hospital
   subtitle: "Blandit duis accumsan  \narcu sagittis viverra  \nblandit at Interdum."
-  actions:
-  - label: Activate
-    url: "/generic"
-    is_scrolly: false
-    is_primary: true
+  actions: []
   bottom_link:
     label: Learn More
     url: "#one"
