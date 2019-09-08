@@ -38,4 +38,5 @@ fields:
   config:
     required: true
 pages:
+- content/welcome-to-abbeywood-cat-hospital.md
 - content/generic.md
