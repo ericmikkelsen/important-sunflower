@@ -24,7 +24,7 @@ sections:
   template: spotlights
   title: Spotlights Section
   section_id: two
-  background_style: style2
+  background_style: style1
   spotlights:
   - title: Location and Directions
     text: |-
