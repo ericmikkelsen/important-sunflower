@@ -22,16 +22,7 @@ sections:
     in the Westmont, IL area.
   section_id: one
   background_style: style1
-  feature_icons:
-  - title: Lorem
-    icon: fa-diamond
-    style: style1
-  - title: Ipsum
-    icon: fa-heart-o
-    style: style2
-  - title: Dolor
-    icon: fa-code
-    style: style3
+  feature_icons: []
   component: icons.html
 - type: spotlights
   template: spotlights
