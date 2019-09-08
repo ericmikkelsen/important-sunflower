@@ -45,7 +45,7 @@ sections:
       * Dental X-Ray
       * Ultrasound
 
-      [Get more information about our services](/generic/)
+      [Get more information about our services](/services)
     home_img_path: "/images/abbeywood-services.jpg"
   - title: Our Team
     text: Lear more about [the team at Abbeywood Cat Hospital](/our-team)
