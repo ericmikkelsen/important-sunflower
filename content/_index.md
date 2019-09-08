@@ -33,10 +33,19 @@ sections:
       For specific directions from your location, please use our Google Maps link below or contact our Westmont veterinary clinic at .
     home_img_path: "/images/abbeywood-location.jpg"
   - title: Services
-    text: "We offer a variety of Cat veterinary services, such as:\n\n* Preventative
-      Care\n* Vaccinations\n* Spay/Neuter Procedures\n* Diagnostics and Treatment\n*
-      Internal Medicine\n* Dental Care\n* Dental X-Ray\n* Ultrasound\n\n[Get more
-      information about our services]() "
+    text: |-
+      We offer a variety of Cat veterinary services, such as:
+
+      * Preventative Care
+      * Vaccinations
+      * Spay/Neuter Procedures
+      * Diagnostics and Treatment
+      * Internal Medicine
+      * Dental Care
+      * Dental X-Ray
+      * Ultrasound
+
+      [Get more information about our services](/generic/)
     home_img_path: "/images/abbeywood-services.jpg"
   - title: |-
       Augue eleifend aliquet
