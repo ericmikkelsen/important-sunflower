@@ -3,6 +3,8 @@ background_style = "style5"
 layout = "page"
 subtitle = ""
 title = "Our Team"
+[menu.main]
+weight = 3
 
 +++
 ## Andrea, Licensed Veterinary Technician
