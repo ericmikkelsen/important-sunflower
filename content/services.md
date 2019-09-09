@@ -9,13 +9,11 @@ weight = 3
 +++
 ## Wellness
 
-### Complete Medical Care
+### Complete Medical Care for Our Feline Patients
 
-for Our Feline Patients
+As with humans, preventative care is a critical part of maintaining wellness and in identifying health problems early to permit effective treatment.
 
-Each of our experienced veterinarians receive continued training in particular aspects of feline medicine, giving us the opportunity to offer second, third and fourth opinions on all hospital cases. With specific interests in internal medicine, geriatrics, reproduction, pediatrics, dentistry, endocrine disorders and surgery, the veterinarians who are most knowledgeable in a particular problem provide the most input for that case.
-
-Since cats age the equivalent of at least four human years in each calendar year, the veterinarians at Abbeywood Cat Hospital recommend comprehensive physical examinations twice per year. Our entire staff stresses wellness care, preventative medication, diagnostics and pain management.
+Since cats age the equivalent of at least four human years in each calendar year, Dr. Ubatuba recommends comprehensive physical examinations twice per year. Our entire staff stresses wellness care, preventative medication, diagnostics and pain management.
 
 Our wellness care includes but is not limited to:
 
@@ -39,15 +37,13 @@ The staff at Abbeywood Cat Hospital utilizes the latest laboratory and medical d
 
 With the combined talent of our experienced veterinarians and staff, we can provide medical services for problems ranging from routine wounds, lacerations and respiratory infections to complex diabetic cases, cancer therapy, urinary tract problems and cardiac disorders.
 
-If you have any questions, please give us a call. The doctors are easily accessible and always eager to discuss your cat's medical needs.
+If you have any questions, please give us a call. Dr. Ubatuba prides herself on being easily accessible and always eager to discuss your cat's medical needs.
 
-For more information about our wellness services for cats in Westmont, IL or to schedule an appointment at Abbeywood Cat Hospital, please contact us at (603) 969-5432.
+For more information about our wellness services or to schedule an appointment at Abbeywood Cat Hospital, please contact us at (603) 969-5432.
 
 ## Veterinary Care for Your Senior Cat
 
 ### Caring for Your Senior Cat
-
-in ,
 
 Older cats have special health needs and may require more attention and care than younger kitties. The aging process varies between species, so if you own a senior dog, your cat may not be considered a senior even if they are the same age! As a general rule, you should consider your cat a senior around 10 years of age. As your cat ages, changes occur in his physical condition that warrant more frequent visits to your veterinarian. If medical problems are recognized and treated when they are first detected, the treatment may be easier for your cat and less costly for you. Twice-a-year wellness examinations are recommended in order to diagnose medical problems during the early stages.
 
