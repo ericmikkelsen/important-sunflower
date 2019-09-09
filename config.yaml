@@ -3,7 +3,7 @@ title: Abbeywood Cat Hospital
 baseURL: "/"
 params:
   landing_template: home
-  palette: green
+  palette: blue
   palettes:
     blue:
       sass:
