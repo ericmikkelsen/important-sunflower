@@ -15,7 +15,7 @@ sections:
   title: Welcome to Abbeywood Cat Hospital
   subtitle: Since 1980, the veterinary team at Abbeywood Cat Hospital has provided
     your favorite feline with the most high-quality, compassionate care available
-    in the Westmont, IL area.
+    in the Downers Grove Township area.
   section_id: one
   background_style: style1
   feature_icons: []
@@ -28,25 +28,34 @@ sections:
   spotlights:
   - title: Location and Directions
     text: |-
-      is located at 6323 Fairview Avenue, between 63rd Street and 75th Street, where Downers Grove meets Westmont. This central location is within a convenient 10 minute drive of Naperville, Lisle, Downers Grove, Hinsdale, and Oak Brook.
+      Abbeywood Cat Hospital is located at 6323 Fairview Avenue, between 63rd Street and 75th Street, where Downers Grove meets Westmont. This central location is within a convenient 10 minute drive of Naperville, Lisle, Downers Grove, Hinsdale, and Oak Brook.
 
-      For specific directions from your location, please use our Google Maps link below or contact our Westmont veterinary clinic at .
+      For specific directions from your location, please use our Google Maps link below or contact our Westmont veterinary clinic at (630)969-5432.
+
+      [Click here for Google Maps.](https://goo.gl/maps/LbJGfXfYTZ3jbxm66 "Abbeywood Cat Clinic Location")
     home_img_path: "/images/abbeywood-location.jpg"
   - title: Services
     text: |-
-      We offer a variety of Cat veterinary services, such as:
+      We offer comprehensive feline veterinary services, including:
 
-      * Preventative Care
-      * Vaccinations
-      * Spay/Neuter Procedures
-      * Diagnostics and Treatment
-      * Internal Medicine
-      * Dental Care
-      * Dental X-Ray
-      * Ultrasound
+      Preventative Care
+
+      Vaccinations
+
+      Spay/Neuter Procedures
+
+      Diagnostics and Treatment
+
+      Internal Medicine
+
+      Dental Care
+
+      Dental X-Ray
+
+      Ultrasound
 
       [Get more information about our services](/services)
-    home_img_path: "/images/abbeywood-services.jpg"
+    home_img_path: "/images/00100lPORTRAIT_00100_BURST20190907123116637_COVER.jpg"
   - title: Our Team
     text: Lear more about [the team at Abbeywood Cat Hospital](/our-team)
     home_img_path: "/images/abbeywood-our-team.jpg"
