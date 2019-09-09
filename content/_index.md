@@ -38,21 +38,14 @@ sections:
     text: |-
       We offer comprehensive feline veterinary services, including:
 
-      Preventative Care
-
-      Vaccinations
-
-      Spay/Neuter Procedures
-
-      Diagnostics and Treatment
-
-      Internal Medicine
-
-      Dental Care
-
-      Dental X-Ray
-
-      Ultrasound
+      * Preventative Care
+      * Vaccinations
+      * Spay/Neuter Procedures
+      * Diagnostics and Treatment
+      * Internal Medicine
+      * Dental Care
+      * Dental X-Ray
+      * Ultrasound
 
       [Get more information about our services](/services)
     home_img_path: "/images/00100lPORTRAIT_00100_BURST20190907123116637_COVER.jpg"
