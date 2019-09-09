@@ -48,7 +48,7 @@ sections:
       * Ultrasound
 
       [Get more information about our services](/services)
-    home_img_path: "/images/00100lPORTRAIT_00100_BURST20190907123116637_COVER.jpg"
+    home_img_path: "/images/00100lPORTRAIT_00100_BURST20190907123116637_COVER.png"
   - title: Our Team
     text: Lear more about [the team at Abbeywood Cat Hospital](/our-team)
     home_img_path: "/images/abbeywood-our-team.jpg"
