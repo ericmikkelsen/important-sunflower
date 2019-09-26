@@ -50,6 +50,7 @@ sections:
       * Dental X-Ray
       * Ultrasound
       * Soft Tissue Surgery
+      * House Calls
     home_img_path: "/images/00100lPORTRAIT_00100_BURST20190907123116637_COVER.png"
   - title: Our Team
     text: Lear more about [the team at Abbeywood Cat Hospital](/our-team)
