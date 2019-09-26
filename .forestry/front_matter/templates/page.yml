@@ -38,5 +38,6 @@ fields:
   config:
     required: true
 pages:
+- content/cat-care.md
 - content/services.md
 - content/our-team.md
