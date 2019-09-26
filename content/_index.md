@@ -41,7 +41,7 @@ sections:
     text: |-
       We offer comprehensive feline veterinary services, including:
 
-      * Preventative Care
+      * Wellness Exams and Preventative Care
       * Vaccinations
       * Spay/Neuter Procedures
       * Diagnostics and Treatment
@@ -49,8 +49,7 @@ sections:
       * Dental Care
       * Dental X-Ray
       * Ultrasound
-
-      [Get more information about our services](/services)
+      * Soft Tissue Surgery
     home_img_path: "/images/00100lPORTRAIT_00100_BURST20190907123116637_COVER.png"
   - title: Our Team
     text: Lear more about [the team at Abbeywood Cat Hospital](/our-team)
