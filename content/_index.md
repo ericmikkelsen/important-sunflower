@@ -14,11 +14,11 @@ sections:
   template: icons
   title: Welcome to Abbeywood Cat Hospital
   subtitle: |-
-    Since 1980, the veterinary team at Abbeywood Cat Hospital has provided your favorite feline with quality, compassionate care in the Downers Grove Township area.
+    Since 1980, the veterinary team at Abbeywood Cat Hospital has provided your favorite feline with quality, compassionate care in the western suburbs of Chicago.
 
-    630-969-5432
+    Ph: 630-969-5432
 
-    info@abbeywoodcathospital.com
+    Email:  info@abbeywoodcathospital.com
   section_id: one
   background_style: style1
   feature_icons: []
