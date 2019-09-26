@@ -13,9 +13,12 @@ sections:
 - type: icons
   template: icons
   title: Welcome to Abbeywood Cat Hospital
-  subtitle: Since 1980, the veterinary team at Abbeywood Cat Hospital has provided
-    your favorite feline with quality, compassionate care in the Downers Grove Township
-    area.
+  subtitle: |-
+    Since 1980, the veterinary team at Abbeywood Cat Hospital has provided your favorite feline with quality, compassionate care in the Downers Grove Township area.
+
+    630-969-5432
+
+    info@abbeywoodcathospital.com
   section_id: one
   background_style: style1
   feature_icons: []
@@ -26,13 +29,6 @@ sections:
   section_id: two
   background_style: style1
   spotlights:
-  - title: Contact Us
-    text: |2-
-
-      Ph: 630-969-5432
-
-      Email: info@abbeywoodcathospital.com
-    home_img_path: ''
   - title: Location and Directions
     text: |-
       Abbeywood Cat Hospital is located at 6323 Fairview Avenue, between 63rd Street and 75th Street, where Downers Grove meets Westmont. This central location is within a convenient 10 minute drive of Naperville, Lisle, Downers Grove, Hinsdale, and Oak Brook.
