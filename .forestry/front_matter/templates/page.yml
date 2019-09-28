@@ -39,6 +39,5 @@ fields:
     required: true
 pages:
 - content/the-litter-box-lifestyle.md
-- content/Cat Tales/the-litter-box-lifestyle.md
 - content/services.md
 - content/our-team.md
