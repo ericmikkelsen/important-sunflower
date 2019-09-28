@@ -38,6 +38,7 @@ fields:
   config:
     required: true
 pages:
+- content/cat-tales-1.md
 - content/cat-tales.md
 - content/services.md
 - content/our-team.md
