@@ -1,6 +1,5 @@
 +++
 background_style = "style5"
-draft = true
 layout = "page"
 subtitle = "Preventative Care Observations and Litter Box Behaviors"
 title = "The Litter Box Lifestyle"
