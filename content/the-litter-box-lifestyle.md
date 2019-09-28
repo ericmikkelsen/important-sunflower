@@ -1,6 +1,5 @@
 +++
 background_style = "style5"
-draft = true
 layout = "page"
 subtitle = "Preventative care and the litter box, plus tips and strategies to help keep your cat peeing _inside_ the box!"
 title = "The Litter-Box Lifestyle"
