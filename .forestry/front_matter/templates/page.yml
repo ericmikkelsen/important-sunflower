@@ -39,6 +39,5 @@ fields:
     required: true
 pages:
 - content/cat-tales.md
-- content/cat-care.md
 - content/services.md
 - content/our-team.md
