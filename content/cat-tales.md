@@ -2,8 +2,8 @@
 background_style = "style5"
 draft = true
 layout = "page"
-subtitle = "Care, feeding, and medical tips to keep your kitty healthy and happy."
-title = "Cat Tales"
+subtitle = "Preventative Care Observations and Litter Box Behaviors"
+title = "The Litter Box Lifestyle"
 
 +++
 It seems likely that cleaning kitty litter is everyone's least favorite part of having a kitty roommate. It may surprise you to realize that this chore is also a part of an effective preventative care routine.
