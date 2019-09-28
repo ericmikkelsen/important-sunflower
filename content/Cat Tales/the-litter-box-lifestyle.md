@@ -1,12 +1,8 @@
 +++
 background_style = "style5"
-draft = true
 layout = "page"
 subtitle = "Preventative care and the litter box, plus tips and strategies to help keep your cat peeing _inside_ the box!"
 title = "The Litter-Box Lifestyle"
-[menu.main]
-name = "Cat Tales"
-weight = 3
 
 +++
 It seems likely that cleaning kitty litter is everyone's least favorite part of having a kitty roommate. It may surprise you to realize that this chore is also a part of an effective preventative care routine.
