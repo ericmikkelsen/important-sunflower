@@ -38,6 +38,7 @@ fields:
   config:
     required: true
 pages:
+- content/Cat Tales/the-litter-box-lifestyle.md
 - content/cat-tales.md
 - content/services.md
 - content/our-team.md
