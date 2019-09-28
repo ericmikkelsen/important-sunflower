@@ -55,6 +55,10 @@ sections:
   - title: Our Team
     text: Lear more about [the team at Abbeywood Cat Hospital](/our-team)
     home_img_path: "/images/abbeywood-our-team.jpg"
+  - title: Cat Tales
+    text: Tips and info to maximize preventative care, address behavioral issues,
+      identify symptoms early, and generally keep cats healthy and happy
+    home_img_path: ''
   component: spotlights.html
 layout: home
 menu:
