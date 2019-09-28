@@ -57,8 +57,8 @@ sections:
     home_img_path: "/images/abbeywood-our-team.jpg"
   - title: Cat Tales
     text: Tips and info to maximize preventative care, address behavioral issues,
-      identify symptoms early, and generally keep cats healthy and happy
-    home_img_path: ''
+      identify symptoms early, and generally keep cats healthy and happy!
+    home_img_path: "/images/1200px-Adorable-animal-cat-20787.jpg"
   component: spotlights.html
 layout: home
 menu:
