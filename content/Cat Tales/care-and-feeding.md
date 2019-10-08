@@ -9,7 +9,7 @@ weight = 4
 +++
 Like anyone, kitties love a good treat. But what should they actually eat? We’re all familiar with the iconic imagery of a cat lapping at a bowl of cream or milk, or with a freshly caught rodent or bird gripped in its jaws. But what foods are forbidden, versus acceptable? Ho do we keep our kitties healthy and happy from a dietary perspective?
 
-                        ![](/images/please work.jpg)
+![](/images/please work.jpg)
 
 You can find a lot of information online on this very topic, some of it well researched and validated, much of it not. You can also find numerous lists of common foods toxic to cats, which we will avoid repeating. So…what are the facts?
 
