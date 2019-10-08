@@ -1,6 +1,5 @@
 +++
 background_style = "style5"
-draft = true
 layout = "page"
 subtitle = "Tips for diet and weight management for your feline friends."
 title = "Care and Feeding"
