@@ -30,3 +30,5 @@ Similarly, cats do best when they are fed at set times. There is frequently a te
 To sum up: whatever brand of food that works for your kitty should be fine, but keep an eye peeled for changes that could indicate an emerging dietary intolerance. Very occasional small snacks can also be fine, but food intake should be generally limited to foods you know are safe, and monitored for changes in appetite. Cats really do require meat as they are carnivores, but any store bought (or vet-prescribed) brand will do the trick.
 
 As always, talk to your vet if you have any questions or concerns.  We at Abbeywood are here to help!
+
+Photo Attribution: [https://www.flickr.com/photos/ryanwick/2283058460](https://www.flickr.com/photos/ryanwick/2283058460 "https://www.flickr.com/photos/ryanwick/2283058460")
