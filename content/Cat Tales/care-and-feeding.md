@@ -9,8 +9,6 @@ weight = 4
 +++
 Like anyone, kitties love a good treat. But what should they actually eat? We’re all familiar with the iconic imagery of a cat lapping at a bowl of cream or milk, or with a freshly caught rodent or bird gripped in its jaws. But what foods are forbidden, versus acceptable? Ho do we keep our kitties healthy and happy from a dietary perspective?
 
-![](/images/please work.jpg)
-
 You can find a lot of information online on this very topic, some of it well researched and validated, much of it not. You can also find numerous lists of common foods toxic to cats, which we will avoid repeating. So…what are the facts?
 
 Let’s start with the truth that felines are strict carnivores: their digestive systems are adapted to a diet of meat, and as such they lack the ability to process some precursors into critically needed vitamins, as they typically would get those nutrients from the flesh of their prey. While this is absolutely true, it is sometimes taken to an extreme, where cat lovers believe the best diet for their cat is one of raw meat.
