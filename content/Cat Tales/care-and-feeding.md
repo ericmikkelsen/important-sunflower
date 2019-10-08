@@ -2,7 +2,7 @@
 background_style = "style5"
 layout = "page"
 subtitle = "Tips for diet and weight management for your feline friends."
-title = "Care and Feeding"
+title = "Cat Tales - Care and Feeding"
 
 +++
 Like anyone, kitties love a good treat. But what should they actually eat? We’re all familiar with the iconic imagery of a cat lapping at a bowl of cream or milk, or with a freshly caught rodent or bird gripped in its jaws. But what foods are forbidden, versus acceptable? Ho do we keep our kitties healthy and happy from a dietary perspective?
