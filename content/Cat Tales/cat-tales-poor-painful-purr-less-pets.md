@@ -1,6 +1,5 @@
 +++
 background_style = "style5"
-draft = true
 layout = "page"
 subtitle = "Cats pose a significant challenge when it comes to diagnosing and managing pain.  What are the symptoms of a sad cat, and what should you do to help your kitty stay healthy and happy?"
 title = "Cat Tales - Poor Painful Purr-less Pets"
