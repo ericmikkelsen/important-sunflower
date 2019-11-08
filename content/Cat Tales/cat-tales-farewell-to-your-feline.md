@@ -3,6 +3,8 @@ background_style = "style5"
 layout = "page"
 subtitle = "In the end, we all have to say goodbye to our kitties.  Is there anything that can make it easier?"
 title = "Cat Tales - Farewell to Your Feline"
+[menu.main]
+weight = 6
 
 +++
 The worst part about allowing a cat to adopt you is the heartbreak of letting them go. But, ultimately, that is a time we all must confront. For our part at Abbeywood, each of us can identify the different eras of our lives by the name of the cats that kept us company. And while each kitty’s name brings the smile of loving memories, it also brings the sting of loss.
