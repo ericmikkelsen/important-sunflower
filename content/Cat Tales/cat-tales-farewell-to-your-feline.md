@@ -1,6 +1,5 @@
 +++
 background_style = "style5"
-draft = true
 layout = "page"
 subtitle = "In the end, we all have to say goodbye to our kitties.  Is there anything that can make it easier?"
 title = "Cat Tales - Farewell to Your Feline"
