@@ -3,6 +3,8 @@ background_style = "style5"
 layout = "page"
 subtitle = "There's a lot to know when it comes to vaccinating your kitty: when they need them, how they work, why they're necessary, and what the risks are.  read our full article to get the inside scoop!"
 title = "Cat Tales - Of Cats and Cows"
+[menu.main]
+weight = 7
 
 +++
 Vaccines play a critical role in modern medicine. This has been true for centuries, going all the way back to the original rudimentary vaccine created by intentionally infecting test subjects with cow pox to try to achieve immunity to the deadly scourge of smallpox. But what role do vaccines play in the health and happiness of _your_ kitty-cat?
