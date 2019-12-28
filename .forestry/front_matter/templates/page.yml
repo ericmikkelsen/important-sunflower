@@ -38,10 +38,10 @@ fields:
   config:
     required: true
 pages:
-- content/Cat Tales/cat-tales-of-cats-and-cows.md
-- content/Cat Tales/cat-tales-farewell-to-your-feline.md
-- content/Cat Tales/cat-tales-poor-painful-purr-less-pets.md
 - content/Cat Tales/care-and-feeding.md
-- content/the-litter-box-lifestyle.md
-- content/services.md
+- content/Cat Tales/cat-tales-farewell-to-your-feline.md
+- content/Cat Tales/cat-tales-of-cats-and-cows.md
+- content/Cat Tales/cat-tales-poor-painful-purr-less-pets.md
 - content/our-team.md
+- content/services.md
+- content/the-litter-box-lifestyle.md
