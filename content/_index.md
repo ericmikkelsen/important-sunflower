@@ -3,7 +3,11 @@ title: Home
 banner:
   title: Abbeywood Cat Hospital
   subtitle: 630-969-5432
-  actions: []
+  actions:
+  - label: Our Hours
+    is_scrolly: true
+    is_primary: false
+    url: ''
   bottom_link:
     label: Learn More
     url: "#one"
