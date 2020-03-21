@@ -8,6 +8,10 @@ banner:
     is_scrolly: true
     is_primary: false
     url: "/hours"
+  - label: Covid-19
+    url: "/covid-19"
+    is_scrolly: true
+    is_primary: false
   bottom_link:
     label: Learn More
     url: "#one"
