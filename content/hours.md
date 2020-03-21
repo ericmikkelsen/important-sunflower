@@ -1,8 +1,7 @@
 +++
 background_style = "style5"
 layout = "page"
-subtitle = ""
+subtitle = "![](/images/Clinic Hours.PNG)"
 title = "Hours"
 
 +++
- ![](/images/Clinic Hours.PNG "Abbeywood Cat Hospital Hours")
