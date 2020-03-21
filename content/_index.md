@@ -5,7 +5,7 @@ banner:
   subtitle: 630-969-5432
   actions:
   - label: Our Hours
-    is_scrolly: true
+    is_scrolly: false
     is_primary: false
     url: "/hours"
   - label: Covid-19
@@ -72,6 +72,5 @@ layout: home
 menu:
   main:
     weight: 1
-draft: true
 
 ---
