@@ -7,7 +7,7 @@ banner:
   - label: Our Hours
     is_scrolly: true
     is_primary: false
-    url: www.abbeywoodcathospital.com/hours
+    url: "/hours"
   bottom_link:
     label: Learn More
     url: "#one"
@@ -68,6 +68,5 @@ layout: home
 menu:
   main:
     weight: 1
-draft: true
 
 ---
