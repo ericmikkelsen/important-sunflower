@@ -27,10 +27,6 @@ Karen is the newest member of our staff. Her training includes both companion an
 
 Deb is a veterinary assistant at Abbeywood Cat Hospital. She joined our team in May 2014. With over 30 years' experience in animal care, Deb has an appreciation for every aspect of her job. "It's great to work with a team so dedicated to this small but mighty creature," she says. Deb has three cats: Buster, Asia and Dirtball.
 
-## Cece, Veterinary Assistant
-
-Born and raised in Jefferson, Wisconsin, Cece has been working with animals for over 20 years. After receiving her Bachelor of Science in Zoology from the University of Wisconsin at Madison, Cece began her career in the animal field. She came to Abbeywood Cat Hospital in October 2004 as a part-time veterinary assistant after managing both an animal sanctuary and animal shelter. While Cece shares her home with three cats and a dog, she still manages to find time to garden, go biking and hiking, attend food music and beer festivals and volunteer at the USO.
-
 ## Char, Veterinary Assistant
 
 Veterinary assistant Char has been a full-time employee at Abbeywood Cat Hospital since 1992 and has worked with animals for 30 years. She's originally a native of Chicago, and she's long been a passionate animal lover. Char shares her home with a Siamese named Ruthie, two domestic short hair cats named Joey and Bobby Jenks, and an American Bulldog named Annie. In her free time she enjoys cat-sitting and spending time with her husband and grandchildren.
