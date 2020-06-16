@@ -2,8 +2,7 @@
 title: Home
 banner:
   title: Abbeywood Cat Hospital
-  subtitle: "We are currently experiencing a phone outage.  Please contact us through
-    Facebook Messenger, or email us at info@abbeywoodcathospital.com \n\n630-969-5432"
+  subtitle: 630-969-5432
   actions:
   - label: Our Hours
     is_scrolly: false
