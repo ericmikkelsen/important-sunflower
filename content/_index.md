@@ -2,7 +2,10 @@
 title: Home
 banner:
   title: Abbeywood Cat Hospital
-  subtitle: 630-969-5432
+  subtitle: |-
+    630-969-5432
+
+    Please be aware that as of 6/24, an error during the install of an additional phone line reduced us to a single incoming line.  If you call and are sent to voicemail, consider calling back in a few minutes, or emailing us at client.care@abbeywoodcathospital.com.  We are otherwise checking voicemail frequently.  Thanks for your understanding and patience!
   actions:
   - label: Our Hours
     is_scrolly: false
